@@ -45,8 +45,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 746.5, 1587.315780401229858, 50.0, 34.0 ],
-					"presentation_linecount" : 2,
+					"patching_rect" : [ 746.5, 1587.315780401229858, 52.0, 34.0 ],
 					"text" : "Volume Control",
 					"textcolor" : [ 0.0, 0.188235294117647, 0.286274509803922, 1.0 ]
 				}
@@ -60,7 +59,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 572.5, 8.0, 131.0, 34.0 ],
-					"presentation_linecount" : 9,
 					"text" : "Setting volume curves to a minute long.",
 					"textcolor" : [ 0.0, 0.188235294117647, 0.286274509803922, 1.0 ]
 				}
@@ -74,7 +72,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 241.5, 8.0, 105.5, 48.0 ],
-					"presentation_linecount" : 11,
 					"text" : "Start audio & set volume first! See bottom of patch.",
 					"textcolor" : [ 0.0, 0.188235294117647, 0.286274509803922, 1.0 ]
 				}
@@ -1500,7 +1497,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 465.5, 34.0, 101.0, 22.0 ],
+					"patching_rect" : [ 465.5, 35.0, 101.0, 22.0 ],
 					"text" : "setdomain 60000"
 				}
 
