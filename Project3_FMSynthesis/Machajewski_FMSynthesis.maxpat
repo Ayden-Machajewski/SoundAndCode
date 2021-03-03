@@ -40,6 +40,19 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-4",
+					"linecount" : 5,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 293.354768354415796, 211.98129076609041, 92.308410167694092, 75.0 ],
+					"presentation_linecount" : 4,
+					"text" : "Though it's more of a vibrato? Modulation Index Vibrato?"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-32",
 					"maxclass" : "newobj",
 					"numinlets" : 0,
@@ -1035,7 +1048,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 175.119621623276714, 268.429935864120466, 150.0, 75.0 ],
+					"patching_rect" : [ 197.072904694794659, 294.929935864120466, 150.0, 75.0 ],
 					"text" : "I realized after making it that my BasicFM is basically just simpleFM~, so may as well treat them the same."
 				}
 
@@ -1106,8 +1119,8 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 270.857939589737953, 171.420519488037144, 72.0, 48.0 ],
-					"text" : "An added modulation for ya"
+					"patching_rect" : [ 300.857939589737953, 164.102808058261871, 72.0, 48.0 ],
+					"text" : "An added modulation for ya."
 				}
 
 			}
